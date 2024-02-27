@@ -1,4 +1,4 @@
-<H3> Name:MITTA YASHASWI </H3>
+<H3> Name:MUDI PAVAN </H3>
 <H3>Register No:212221230067</H3>
 <H3> Experiment 1</H3>
 <H3>Date:19.02.2024</H3>
